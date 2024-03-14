@@ -1,4 +1,4 @@
-<img width="1280" alt="image" src="https://github.com/PressToCode/DDAP2024-TugasHTML/assets/137992170/956325ce-9065-42ca-982c-7e73c1f9fdcd">
+!(https://github.com/PressToCode/DDAP2024-TugasHTML/assets/137992170/956325ce-9065-42ca-982c-7e73c1f9fdcd")
 ( Tampilan di PC )
 -------------------------------------------------------
 
